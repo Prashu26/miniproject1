@@ -1,3 +1,3 @@
 # miniproject1
 The project contains landing page and login page
-The server saves the user information
+The server saves the user information hello
